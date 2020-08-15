@@ -1,0 +1,60 @@
+*
+{
+    box-sizing: border-box;
+}
+#body
+{
+    background-color: oldlace;
+}
+#navbar
+{
+    background-color: moccasin;
+}
+#brand
+{
+    font-weight: bold;
+    font-size: 30px;
+}
+#chicken
+{
+    
+    background-color: yellow;
+    border: 1px solid black;
+    font-weight: bold;
+}
+#beef
+{
+    
+    background-color: yellow;
+    border: 1px solid black;
+    font-weight: bold;
+}
+#sushi
+{
+    background-color: yellow;
+    border: 1px solid black;
+    font-weight: bold;
+}
+#chicken_data 
+{
+    border: 2px solid black;
+    margin: 10px;
+    background-color: thistle;
+}
+#beef_data
+{
+    border: 2px solid black;
+    margin: 10px;
+    background-color: thistle;
+}
+#sushi_data
+{
+    border: 2px solid black;
+    margin: 10px;
+    background-color: thistle;
+}
+p
+{
+   padding: 10px;
+   padding-top: 0px;
+}
